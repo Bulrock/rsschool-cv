@@ -38,7 +38,7 @@ function multiply(a, b){
 
 #### WORK EXPERIENCE<br/>
 No work experience in Front-End<br/>
-Example of my [CV project]()
+Example of my [CV project](https://bulrock.github.io/rsschool-cv/cv)
 - - - - - 
 
 #### EDUCATION<br/>
