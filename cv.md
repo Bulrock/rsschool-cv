@@ -11,6 +11,7 @@
 **Location:** _Minsk, Belarus<br/>_
 **Discord RSSchool:** _Bulrock<br/>_
 **GitHub:** [Bulrock](https://github.com/Bulrock)
+**Telegram:** [maksim_valazhynskiy](https://t.me/maksim_valazhynskiy)
 - - - - - -
 
 #### BRIEFLY ABOUT ME<br/>
