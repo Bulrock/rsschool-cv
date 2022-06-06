@@ -10,8 +10,8 @@
 **E-mail** _maksim.volozhinskij@gmail.com<br/>_
 **Location:** _Minsk, Belarus<br/>_
 **Discord RSSchool:** _Bulrock<br/>_
-**GitHub:** [Bulrock](https://github.com/Bulrock)
-**Telegram:** [maksim_valazhynskiy](https://t.me/maksim_valazhynskiy)
+**GitHub:** _[Bulrock](https://github.com/Bulrock)<br/>_
+**Telegram:** _[maksim_valazhynskiy](https://t.me/maksim_valazhynskiy)<br/>_
 - - - - - -
 
 #### BRIEFLY ABOUT ME<br/>
