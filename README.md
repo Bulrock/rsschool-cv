@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bulrock.github.io/rsschool-cv/cv
